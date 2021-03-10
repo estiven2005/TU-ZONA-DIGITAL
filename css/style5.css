@@ -403,7 +403,7 @@ img.svg{
 .beny_tm_first_button a span{
 	position: relative;
 	z-index: 1;
-	color: #fff;
+	color: rgb(255, 255, 255);
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -411,7 +411,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.beny_tm_first_button a:hover span{color: #000;}
+.beny_tm_first_button a:hover span{color: rgb(0, 0, 0);}
 
 /********	1.3 SERVICES    *******/
 
@@ -453,7 +453,7 @@ img.svg{
 	bottom: 15px;
 	height: 10px;
 	z-index: 1;
-	background-color: #28963a;
+	background-color: #971818;
 }
 .beny_tm_title_holder_personal h3 span{
 	position: relative;
